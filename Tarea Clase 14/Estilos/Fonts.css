@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "MifuenteBold";
+    src: url('../Fonts/KlavikaBold\ Bold\ 2.otf');
+}
+@font-face{
+    font-family: "MiFuenteRegular";
+    src: url('../Fonts/KlavikaRegular\ Plain.otf');
+}
+@font-face{
+    font-family: "MiFuenteLight";
+    src: url('../Fonts/KlavikaLight\ Plain\ 2.otf');
+}
